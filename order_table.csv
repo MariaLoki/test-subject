@@ -1,4 +1,4 @@
-userid,status,order,date of purchase,price,quantity
+userid,status,orders,date of purchase,price,quantity
 5179583,regular,order1,2016-01-01,58,21
 5179583,regular,order2,2016-02-16,77,35
 5179583,regular,order3,2016-03-10,38,34
